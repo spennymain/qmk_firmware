@@ -19,3 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define USE_I2C
 #define EE_HANDS
+#define LEADER_PER_KEY_TIMING
+#define LEADER_TIMEOUT 250
+
+// TODO martix user function to workout leader keys
